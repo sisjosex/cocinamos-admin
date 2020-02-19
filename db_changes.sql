@@ -1,0 +1,1 @@
+ALTER TABLE `user` ADD `name` VARCHAR(250) NOT NULL DEFAULT '' AFTER `last_name`;
